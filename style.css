@@ -5,14 +5,14 @@ html {
     justify-content: center;
     align-items: center;
     flex-direction:column;
-    background: #222;
+    background: #1d212c;
   }
   
   body::before, body::after {
     font-weight: bold;
     font-family: 'SF Mono', 'Courier New', Courier, monospace;
     font-size: 42px;
-    color: #ff4473;
+    color: #23b0ff;
   }
   
   head { 
