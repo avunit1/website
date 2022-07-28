@@ -31,6 +31,8 @@ html {
     position: absolute;
     top: 10px;
     left: 20px;
+    font-weight: bold;
+    font-family: 'SF Mono', 'Courier New', Courier, monospace;
     color: #23b0ff;
     text-decoration: none;
     font-size: 24px;
